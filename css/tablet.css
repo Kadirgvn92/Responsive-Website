@@ -1,0 +1,41 @@
+#navbar ul li a:hover{
+    background-color: yellow;
+    color: wheat;
+    padding: 1em;
+}
+#home img{
+    width: 300px;
+}
+#home .name h2{
+    font-size: 2rem;
+}
+.heading-small{
+    font-size: 1rem;
+}
+.btn{
+    margin-top: 1.25rem;
+    padding: 0.5rem 2rem;
+    border-radius: 5px;
+    color: white;
+}
+.btn-primary{
+    background-color: navy;
+}
+.btn-primary:hover  {
+    color: navy;
+    background: white;
+    border: 0.25px solid navy;
+}
+.btn-dark{
+    background: #333;
+}
+.btn-dark:hover{
+    color:#333;
+    background: white;
+    border:0.25px solid #333; 
+}
+#courses .courses .course {
+    flex-direction: column;
+}
+
+
